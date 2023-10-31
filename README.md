@@ -1,2 +1,2 @@
 # tinCat
-This is tinder clone site for cats.
+This is the frontend for the tinder clone site for cats.
